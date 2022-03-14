@@ -1,4 +1,4 @@
-import LoginPage from '../../support/pageObjects/LoginPage';
+import LoginPage from '../../support/page-objects/LoginPage';
 
 describe('Login - add item to cart - order', () => {
     before(() => {
